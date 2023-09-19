@@ -10,4 +10,3 @@ rand = "0.8.5"
 serde = { version = "1.0", features = ["derive"] }
 bigdecimal = { version = "0.4.1", features = ["serde"] }
 uuid = { version = "1.4.1", features = ["serde", "v4"] }
-derive_more = "0.99"
